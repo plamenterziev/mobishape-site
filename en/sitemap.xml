@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://mobishape.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mobishape.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mobishape.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mobishape.com/thank-you</loc>
+  </url>
+  
+</urlset>

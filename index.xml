@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobishape | We build mobile apps that matter</title>
+    <link>https://mobishape.com/index.xml</link>
+    <description>Recent content on Mobishape | We build mobile apps that matter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://mobishape.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Thank you for your enquiry</title>
+      <link>https://mobishape.com/thank-you</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mobishape.com/thank-you</guid>
+      <description>&lt;p&gt;A member of our team will be in touch with you in 24 hours.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
