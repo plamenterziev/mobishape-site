@@ -442,3 +442,23 @@ xapads.com,117219,RESELLER
 yeahmobi.com,5135195,RESELLER
 zmaticoo.com,5135195,RESELLER
 zmaticoo.com,5135704,RESELLER
+
+admanmedia.com, 2242, RESELLER
+appnexus.com, 15349, RESELLER, f5ab79cb980f11d1
+bid-matrix.com, f2c71a45ea149366, RESELLER
+conversantmedia.com, 100863, RESELLER, 03113cd04947736d
+eskimi.com, 2020000545, RESELLER
+lijit.com, 417620, RESELLER, fafdf38b16bf6b2b
+onetag.com, 8c90176af2e65c8, RESELLER
+prado.co, 14260, RESELLER
+pubnative.net, 1009988, RESELLER, d641df8625486a7b
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807
+smartclip.net, 27985, RESELLER
+thunder-monetize.com, 5257091605, RESELLER
+thunder-monetize.com, 8221217003, RESELLER
+tradplusad.com, b3fca24bd11c1242, RESELLER
+vidazoo.com, 66e04f5e4d7fd89d878d29d2, RESELLER, b6ada874b4d7d0b2
+video.unrulymedia.com, 2743945877, RESELLER
+video.unrulymedia.com, 498216989, RESELLER
+video.unrulymedia.com, 585054906, RESELLER
+video.unrulymedia.com, 755432070, RESELLER
